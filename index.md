@@ -15,6 +15,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 </ul>
 
 # Mockup Pages
+
   <dir>
   <h4>Landing<h4>
   <img src="doc/landing.png" height="300" width="500">
