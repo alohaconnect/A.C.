@@ -6,5 +6,14 @@
 # About Us
 Our goal is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their carrer after college. 
 
+# Features of the system
+<ul>
+  <li>Users can register or login as admin, student or company</li>
+  <li>One data set stores companies's information; one data set stores students' information</li>
+  <li>The system will match students to companies based on their skills and preference.</li>
+  
+</ul>
+
+
 # Developement History
 Milestone 1
