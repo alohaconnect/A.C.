@@ -14,17 +14,16 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 </ul>
 
 # Mockup Pages
-<ul>
-  <li>Landing
-  <img src="doc/landing.png" height="300" width="500"></li>
-  <li>Student home page and company home page
-  <img src="doc/addContact.jpg" height="300" width="500"></li>
-  <li>Admin home page
-  <img src="doc/adminMode.jpg" height="300" width="500"></li>
-  <li>Student profile page and company profile page
-  <img src="doc/listContact.jpg" height="300" width="500"></li>
- 
-</ul>
+
+  <h4>Landing<h4>
+  <img src="doc/landing.png" height="300" width="500">
+  <h4>Student home page and company home page</h4>
+  <img src="doc/addContact.jpg" height="300" width="500">
+  <h4>Admin home page</h4>
+  <img src="doc/adminMode.jpg" height="300" width="500">
+  <h4>Student profile page and company profile page</h4>
+  <img src="doc/listcontact.jpg" height="300" width="500">
+
 
 # Developement History
 Milestone 1
