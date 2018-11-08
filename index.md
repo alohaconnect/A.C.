@@ -9,7 +9,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 # Features of the system
 <ul>
   <li>Users can register or login as admin, student or company.</li>
-  <li>One data set stores companies's information; one data set stores students' information.</li>
+  <li>Collections and schemas of student and company.</li>
   <li>Admin has permission to edit all data and create new categories.</li>
   <li>The system will match students to companies based on their skills and preference, and vice-versa</li>
 </ul>
