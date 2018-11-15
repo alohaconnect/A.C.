@@ -8,7 +8,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 # Developement History
 ## Progress
-* [Deployed Version](https://galaxy.meteor.com/app/alohaconnect.meteorapp.com)
+* [Deployed Version](http://alohaconnect.meteorapp.com/)
 * [Milestone 1](https://github.com/alohaconnect/alohaconnect/projects/1)
 * [Milestone 2](https://github.com/alohaconnect/alohaconnect/projects/2)
 
