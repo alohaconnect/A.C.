@@ -8,7 +8,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 # Developement History
 ## Progress
-* [Deployed Version]()
+* [Deployed Version](https://galaxy.meteor.com/app/alohaconnect.meteorapp.com)
 * [Milestone 1](https://github.com/alohaconnect/alohaconnect/projects/1)
 * [Milestone 2](https://github.com/alohaconnect/alohaconnect/projects/2)
 
@@ -52,7 +52,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 Step 1: Install [Meteor](https://www.meteor.com/install).
 
-Step 2: [Download a copy of Aloha Connect](https://github.com/alohaconnect/alohaconnect). Note that this project is a private repo and so you will need to request permission from the author to gain access to the repo.
+Step 2: [Download a copy of Aloha Connect](https://github.com/alohaconnect/alohaconnect).
 
 Step 3: cd into the app directory install the required libraries with:
 
