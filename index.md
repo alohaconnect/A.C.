@@ -66,9 +66,10 @@ Once the libraries are installed, you can run the application by invoking:
 
 ### Dylan Ubongen
 
-Hello, I am currently a Junior at the University of Hawaii at Manoa. My major is Computer Science with a focus in the security track. Some of my previously aquired skills are the various programing laguages that I've learned, such as, C, C++, Java, Javascript, etc. However, one of my goals is to improve my web development skills.
+I am currently a Junior at the University of Hawaii at Manoa. My major is Computer Science with a focus in the security track. Some of my previously aquired skills are the various programing laguages that I've learned, such as, C, C++, Java, Javascript, etc. However, one of my goals is to improve my web development skills.
 
 ### Trevin Tejero
+I'm currently a Junior at the University of Hawaii at Manoa. My major is Computer Science with a focus in the security track.
 
 ### Kaili Kameoka
 
