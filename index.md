@@ -73,3 +73,5 @@ Hello, I am currently a Junior at the University of Hawaii at Manoa. My major is
 ### Kaili Kameoka
 
 ### Dawei Yang
+My major is Computer Engineering, and I will graduate this December. I focus on hardward design and IoT, and I want to imporve the skill of project management.
+
