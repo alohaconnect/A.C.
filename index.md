@@ -18,23 +18,23 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
   <dir>
   <h4>Landing</h4>
-  <img src="doc/alohaLanding.jpg" height="300" width="500">
+  <img src="doc/alohaLanding.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Sign Up</h4>
-  <img src="doc/alohaSignUp.jpg" height="300" width="500">
+  <img src="doc/alohaSignUp.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Register as a company</h4>
-  <img src="doc/alohaRegisterCompany.jpg" height="300" width="500">
+  <img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Company home page</h4>
-  <img src="doc/alohaCompanyHome.jpg" height="300" width="500">
+  <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Company add position</h4>
-  <img src="doc/lalohaAddPosition.jpg" height="300" width="500">
+  <img src="doc/lalohaAddPosition.JPG" height="300" width="500">
   </dir>
   
 
