@@ -3,10 +3,16 @@
 * [About Us](#about-us)
 * [Developement History](#developement-history)
 
-# About Us
-Our goal is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their career after college. 
+# About Aloha Connect
+Our goal is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their career after college. We also want to include the hiring companies to interact with the students by hvaing them make their own account and choose from the listed users.
 
-# Features of the system
+# Developement History
+## Progress
+* [Deployed Version]()
+* [Milestone 1](https://github.com/alohaconnect/alohaconnect/projects/1)
+* [Milestone 2](https://github.com/alohaconnect/alohaconnect/projects/2)
+
+## Features of the system
 <ul>
   <li>Users can register or login as student or company.</li>
   <li>Collections and schemas of student and company.</li>
@@ -14,10 +20,10 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <li>The system will match students to companies based on their skills and preference, and vice-versa</li>
 </ul>
 
-# Mockup Pages
-
+## Guide
   <dir>
   <h4>Landing</h4>
+  <p>When you first enter the webpage you are greeted with this home page</p>
   <img src="doc/alohaLanding.JPG" height="300" width="500">
   </dir>
   <dir>
@@ -39,8 +45,22 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   </dir>
   <dir>
   <h4>Student home page</h4>
-  <p>Since Sign in is not implemented yet, our app cannot show the student home page. It is similar to the company home page </p> 
+  <p>Since Sign in is not implemented yet, our app cannot show the student home page. It is similar to the company home page</p> 
   </dir>
+  
+## Installation
 
-# Developement History
-Milestone 1
+Step 1: Install [Meteor](https://www.meteor.com/install).
+
+Step 2: [Download a copy of Aloha Connect](https://github.com/alohaconnect/alohaconnect). Note that this project is a private repo and so you will need to request permission from the author to gain access to the repo.
+
+Step 3: cd into the app directory install the required libraries with:
+
+<code> $ meteor npm install </code>
+
+Once the libraries are installed, you can run the application by invoking:
+
+<code> $ meteor npm run start </code>
+
+## About Us
+
