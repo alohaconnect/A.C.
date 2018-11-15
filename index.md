@@ -22,6 +22,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   </dir>
   <dir>
   <h4>Sign Up</h4>
+  <p>User can sign up as a student or a company. </p>
   <img src="doc/alohaSignUp.JPG" height="300" width="500">
   </dir>
   <dir>
@@ -34,9 +35,11 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   </dir>
   <dir>
   <h4>Company add position</h4>
-  <img src="doc/lalohaAddPosition.JPG" height="300" width="500">
+  <img src="doc/alohaAddPosition.JPG" height="300" width="500">
   </dir>
-  
+  <dir>
+  <p>Since Sign in is not implemented, our app cannot show the student home page now. It is similar to the company home page </p> 
+  </dir>
 
 # Developement History
 Milestone 1
