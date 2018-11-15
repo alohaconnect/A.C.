@@ -38,7 +38,8 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <img src="doc/alohaAddPosition.JPG" height="300" width="500">
   </dir>
   <dir>
-  <p>Since Sign in is not implemented, our app cannot show the student home page now. It is similar to the company home page </p> 
+  <h4>Student home page</h4>
+  <p>Since Sign in is not implemented yet, our app cannot show the student home page. It is similar to the company home page </p> 
   </dir>
 
 # Developement History
