@@ -24,7 +24,8 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 ### Landing
     When you first enter the webpage you are greeted with this home page
-    <img src="doc/alohaLanding.JPG" height="300" width="500">
+    ![alt text](doc/alohaLanding.JPG)
+    
 ### Sign Up
     User can sign up as a student or a company.
     <img src="doc/alohaSignUp.JPG" height="300" width="500">
