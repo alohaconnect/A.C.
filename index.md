@@ -53,7 +53,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
     <h4>Company add position</h4>
     <img src="doc/alohaAddPosition.JPG" height="300" width="500">
     </div>
-  <div
+  <div>
   
   
 ## Installation
