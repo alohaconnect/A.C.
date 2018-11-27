@@ -1,14 +1,17 @@
+# View our website
+[Ho'ohui](https://hoohui.meteorapp.com/)
+
 # Table of contents
 
 * [About Us](#about-us)
 * [Developement History](#developement-history)
 
-# About Aloha Connect
+# About Ho'ohui
 Our goal is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their career after college. We also want to include the hiring companies to interact with the students by hvaing them make their own account and choose from the listed users.
 
-# Developement History
+# Development History
 ## Progress
-* [Deployed Version](http://alohaconnectm2.meteorapp.com/)
+* [Deployed Version](https://hoohui.meteorapp.com/)
 * [Milestone 1](https://github.com/alohaconnect/alohaconnect/projects/1)
 * [Milestone 2](https://github.com/alohaconnect/alohaconnect/projects/2)
 
@@ -24,12 +27,12 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <dir>
   <h4>Landing</h4>
   <p>When you first enter the webpage you are greeted with this home page</p>
-  <img src="doc/alohaLanding.JPG" height="300" width="500">
+  <img src="doc/landing.PNG" height="300" width="500">
   </dir>
   <dir>
   <h4>Sign Up</h4>
   <p>User can sign up as a student or a company. </p>
-  <img src="doc/alohaSignUp.JPG" height="300" width="500">
+  <img src="doc/signup.PNG" height="300" width="500">
   </dir>
   <dir>
   <h4>Login In</h4>
@@ -78,7 +81,7 @@ Once the libraries are installed, you can run the application by invoking:
 I am currently a Junior at the University of Hawaii at Manoa. My major is Computer Science with a focus in the security track. Some of my previously aquired skills are the various programing laguages that I've learned, such as, C, C++, Java, Javascript, etc. However, one of my goals is to improve my web development skills.
 
 ### Trevin Tejero
-I'm currently a Junior at the University of Hawaii at Manoa. My major is Computer Science with a focus in the security track.
+I'm currently a Junior at the University of Hawaii at Manoa. My major is Computer Science with a focus in the security track. I would like to improve upon my web development and project management skills.
 
 ### Kaili Kameoka
 
