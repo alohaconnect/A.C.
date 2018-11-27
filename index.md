@@ -85,6 +85,7 @@ I am currently a Junior at the University of Hawaii at Manoa. My major is Comput
 I'm currently a Junior at the University of Hawaii at Manoa. My major is Computer Science with a focus in the security track. I would like to improve upon my web development and project management skills.
 
 ### Kaili Kameoka
+I am majoring in Computer Science at the University of Hawaii. My interests are in building websites and other web applications.
 
 ### Dawei Yang
 My major is Computer Engineering, and I will graduate this December. I focus on hardward design and IoT, and I want to imporve the skill of project management.
