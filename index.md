@@ -21,7 +21,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 </ul>
 
 ## Guide
-  <div>
+ 
     <div>
     <h4>Landing</h4>
     <p>When you first enter the webpage you are greeted with this home page</p>
@@ -53,7 +53,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
     <h4>Company add position</h4>
     <img src="doc/alohaAddPosition.JPG" height="300" width="500">
     </div>
-  <div>
+  
   
   
 ## Installation
