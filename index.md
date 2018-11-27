@@ -53,6 +53,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   </dir>
   <dir>
   <h4>Edit Page</h4>
+  <img src="doc/alohaEditPosition.PNG" height="300" width="500">
   <p></p> 
   </dir>
   
@@ -69,6 +70,10 @@ Step 3: cd into the app directory install the required libraries with:
 Once the libraries are installed, you can run the application by invoking:
 
 <code> $ meteor npm run start </code>
+
+## Application Design
+### Data model
+The alohaconnect data mode is implemented by two javascript classes: StudentProfile and Position. Both of them encapsulate a MongoDB collection with the same name and export a single variable that provides access to that collection.
 
 ## About Us
 
