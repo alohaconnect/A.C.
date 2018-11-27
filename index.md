@@ -1,5 +1,5 @@
 # View our website
-[Ho'ohui](https://hoohui.meteorapp.com/)
+* [Ho'ohui](https://hoohui.meteorapp.com/)
 
 # Table of contents
 
