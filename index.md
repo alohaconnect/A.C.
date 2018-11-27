@@ -44,8 +44,9 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <h4>Company home page</h4>
   <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
   </dir>
+  <dir>
   <h4>Student home page</h4>
-  <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
+  <img src="doc/alohastudentHome.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Company add position</h4>
