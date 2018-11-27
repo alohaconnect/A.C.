@@ -8,7 +8,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 # Developement History
 ## Progress
-* [Deployed Version](http://alohaconnectm2.meteorapp.com)
+* [Deployed Version](http://alohaconnect.meteorapp.com/)
 * [Milestone 1](https://github.com/alohaconnect/alohaconnect/projects/1)
 * [Milestone 2](https://github.com/alohaconnect/alohaconnect/projects/2)
 
@@ -21,27 +21,32 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 </ul>
 
 ## Guide
-
-### Landing
-    When you first enter the webpage you are greeted with this home page
-    ![alt text](doc/alohaLanding.JPG)
-    
-### Sign Up
-    User can sign up as a student or a company.
-    <img src="doc/alohaSignUp.JPG" height="300" width="500">
-### Register as a company
-    <img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
-### Sign In
-    When a student logs in, the app directs to Student Home Page; When a company logs in, the app directs to Company Home Page.
-    <img src="doc/alohaLogin.JPG" height="300" width="500">
-### Company home page
-    <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
-### Student home page
-    <img src="doc/alohastudentHome.JPG" height="300" width="500">
-### Company add position
-    <img src="doc/alohaAddPosition.JPG" height="300" width="500">
-
-  
+  <dir>
+  <h4>Landing</h4>
+  <p>When you first enter the webpage you are greeted with this home page</p>
+  <img src="doc/alohaLanding.JPG" height="300" width="500">
+  </dir>
+  <dir>
+  <h4>Sign Up</h4>
+  <p>User can sign up as a student or a company. </p>
+  <img src="doc/alohaSignUp.JPG" height="300" width="500">
+  </dir>
+  <dir>
+  <h4>Register as a company</h4>
+  <img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
+  </dir>
+  <dir>
+  <h4>Company home page</h4>
+  <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
+  </dir>
+  <dir>
+  <h4>Company add position</h4>
+  <img src="doc/alohaAddPosition.JPG" height="300" width="500">
+  </dir>
+  <dir>
+  <h4>Student home page</h4>
+  <p>Since Sign in is not implemented yet, our app cannot show the student home page. It is similar to the company home page</p> 
+  </dir>
   
 ## Installation
 
@@ -70,4 +75,3 @@ I'm currently a Junior at the University of Hawaii at Manoa. My major is Compute
 
 ### Dawei Yang
 My major is Computer Engineering, and I will graduate this December. I focus on hardward design and IoT, and I want to imporve the skill of project management.
-
