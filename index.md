@@ -21,39 +21,25 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 </ul>
 
 ## Guide
- 
-    <div>
-    <h4>Landing</h4>
-    <p>When you first enter the webpage you are greeted with this home page</p>
+
+### Landing
+    When you first enter the webpage you are greeted with this home page
     <img src="doc/alohaLanding.JPG" height="300" width="500">
-    </div>
-    <div>
-    <h4>Sign Up</h4>
-    <p>User can sign up as a student or a company. </p>
+### Sign Up
+    User can sign up as a student or a company.
     <img src="doc/alohaSignUp.JPG" height="300" width="500">
-    </div>
-    <div>
-    <h4>Register as a company</h4>
+### Register as a company
     <img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
-    </div>
-    <div>
-    <h4>Sign In</h4>
-    <p>When a student logs in, the app directs to Student Home Page; When a company logs in, the app directs to Company Home Page.</p>
+### Sign In
+    When a student logs in, the app directs to Student Home Page; When a company logs in, the app directs to Company Home Page.
     <img src="doc/alohaLogin.JPG" height="300" width="500">
-    </div>
-    <div>
-    <h4>Company home page</h4>
+### Company home page
     <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
-    </div>
-    <div>
-    <h4>Student home page</h4>
+### Student home page
     <img src="doc/alohastudentHome.JPG" height="300" width="500">
-    </div>
-    <div>
-    <h4>Company add position</h4>
+### Company add position
     <img src="doc/alohaAddPosition.JPG" height="300" width="500">
-    </div>
-  
+
   
   
 ## Installation
