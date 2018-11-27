@@ -34,11 +34,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <p>User can sign up as a student or a company. </p>
   <img src="doc/signup.PNG" height="300" width="500">
   </dir>
-  <dir>
-  <h4>Login In</h4>
-  <p> A student user will be directed to Student Home while a company will be directed to Company Home.</p>
-  <img src="doc/alohaLogin.JPG" height="300" width="500">
-  </dir>
+
   <dir>
   <h4>Register as a company</h4>
   <img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
