@@ -8,7 +8,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 # Developement History
 ## Progress
-* [Deployed Version](http://alohaconnect.meteorapp.com/)
+* [Deployed Version](http://alohaconnectm2.meteorapp.com)
 * [Milestone 1](https://github.com/alohaconnect/alohaconnect/projects/1)
 * [Milestone 2](https://github.com/alohaconnect/alohaconnect/projects/2)
 
@@ -36,7 +36,15 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
   </dir>
   <dir>
+  <h4>Sign In</h4>
+  <p>When a student logs in, the app directs to Student Home Page; When a company logs in, the app directs to Company Home Page.</p>
+  <img src="doc/alohaLogin.JPG" height="300" width="500">
+  </dir>
+  <dir>
   <h4>Company home page</h4>
+  <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
+  </dir>
+  <h4>Student home page</h4>
   <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
   </dir>
   <dir>
@@ -44,9 +52,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <img src="doc/alohaAddPosition.JPG" height="300" width="500">
   </dir>
   <dir>
-  <h4>Student home page</h4>
-  <p>Since Sign in is not implemented yet, our app cannot show the student home page. It is similar to the company home page</p> 
-  </dir>
+  
   
 ## Installation
 
