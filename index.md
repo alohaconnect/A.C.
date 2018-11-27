@@ -50,7 +50,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   </dir>
   <dir>
   <h4>Company add position</h4>
-  <img src="doc/AddPosition.JPG" height="300" width="500">
+  <img src="doc/addPosition.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Edit Page</h4>
