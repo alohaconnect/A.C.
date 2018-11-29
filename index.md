@@ -11,10 +11,10 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 # Development History
 ## Progress
-* [Deployed Version](https://hoohui.meteorapp.com/)
-* [Milestone 1](https://github.com/alohaconnect/alohaconnect/projects/1)
-* [Milestone 2](https://github.com/alohaconnect/alohaconnect/projects/2)
-
+* [Deployed Version](https://ho-ohui.meteorapp.com/)
+* [Milestone 1](https://github.com/ho-ohui/hoohui/projects/1)
+* [Milestone 2](https://github.com/ho-ohui/hoohui/projects/2)
+* [Milestone 3](https://github.com/ho-ohui/hoohui/projects/3)
 ## Features of the system
 <ul>
   <li>Users can register or login as student or company.</li>
@@ -27,7 +27,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <dir>
   <h4>Landing</h4>
   <p>When you first enter the webpage you are greeted with this home page</p>
-  <img src="doc/landing.PNG" height="300" width="500">
+  <img src="doc/landing.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Sign Up</h4>
@@ -41,19 +41,24 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   </dir>
   <dir>
   <h4>Company home page</h4>
-  <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
+  <img src="doc/companyhome.JPG" height="300" width="500">
   </dir>
    <dir>
   <h4>Student home page</h4>
-  <img src="doc/alohastudentHome.JPG" height="300" width="500">
+  <img src="doc/studenthome.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Company add position</h4>
-  <img src="doc/addPosition.JPG" height="300" width="500">
+  <img src="doc/addposition.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Edit Page</h4>
   <img src="doc/alohaEditPosition.PNG" height="300" width="500">
+  <p></p> 
+  </dir>
+   <dir>
+  <h4>Admin Page</h4>
+  <img src="doc/adminhome.PNG" height="300" width="500">
   <p></p> 
   </dir>
   
@@ -61,7 +66,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 Step 1: Install [Meteor](https://www.meteor.com/install).
 
-Step 2: [Download a copy of Aloha Connect](https://github.com/alohaconnect/alohaconnect).
+Step 2: [Download a copy of ho-ohui](https://github.com/ho-ohui/hoohui).
 
 Step 3: cd into the app directory install the required libraries with:
 
