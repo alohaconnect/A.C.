@@ -17,6 +17,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 * [Deployed Version](https://hoohui.meteorapp.com/)
 * [Milestone 1](https://github.com/ho-ohui/hoohui/projects/1)
 * [Milestone 2](https://github.com/ho-ohui/hoohui/projects/2)
+* [Milestone 3](https://github.com/ho-ohui/hoohui/projects/3)
 
 ## Features of the system
 <ul>
