@@ -1,4 +1,4 @@
-<img src="doc/AlohaConnectLogo (1).png" style={display: block; margin-left: auto; margin-right: auto;}>
+<img src="doc/AlohaConnectLogo (1).png" style="display: block; margin-left: auto; margin-right: auto">
 
 # View our website
 
