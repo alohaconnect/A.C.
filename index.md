@@ -1,4 +1,4 @@
-<img src="doc/AlohaConnectLogo (1).png">
+<img src="doc/AlohaConnectLogo (1).png" centered>
 
 # View our website
 
