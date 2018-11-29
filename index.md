@@ -30,35 +30,41 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 ## Guide
   <dir>
   <h4>Landing</h4>
-  <p>When you first enter the webpage you are greeted with this home page</p>
-  <img src="doc/landing.PNG" height="300" width="500">
+  <p>When you first enter the webpage you are greeted with this home page, from here you are able to login to your account(if you have one) or register for an account.</p>
+  <img src="doc/Login.png" height="300" width="500">
   </dir>
+  
   <dir>
   <h4>Sign Up</h4>
-  <p>User can sign up as a student or a company. </p>
-  <img src="doc/signup.PNG" height="300" width="500">
+  <p>Register as a Student</p>
+  <img src="doc/StudentRegister.png" height="300" width="500">
+  <p>Register as a Company</p>
+  <img src="doc/CompanyRegister.png" height="300" width="500">
   </dir>
-
-  <dir>
-  <h4>Register as a company</h4>
-  <img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
-  </dir>
+  
   <dir>
   <h4>Company Home page</h4>
-  <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
+  <img src="doc/CompanyHP.png" height="300" width="500">
   </dir>
-   <dir>
-  <h4>Student home page</h4>
-  <img src="doc/alohastudentHome.JPG" height="300" width="500">
-  </dir>
+  
   <dir>
-  <h4>Company add position</h4>
-  <img src="doc/addPosition.JPG" height="300" width="500">
+  <h4>Company Add Position</h4>
+  <img src="doc/AddPosition.png" height="300" width="500">
   </dir>
+  
   <dir>
-  <h4>Edit Page</h4>
-  <img src="doc/alohaEditPosition.PNG" height="300" width="500">
-  <p></p> 
+  <h4>Applicants Page</h4>
+  <img src="doc/Applicants.png" height="300" width="500">
+  </dir>
+  
+  <dir>
+  <h4>Student Home page</h4>
+  <img src="doc/StudentHP.png" height="300" width="500">
+  </dir>
+  
+  <dir>
+  <h4>Student Profile Page</h4>
+  <img src="doc/StudentProfile.png" height="300" width="500">
   </dir>
   
 ## Installation
