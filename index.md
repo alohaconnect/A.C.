@@ -1,4 +1,4 @@
-<img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
+<img src="doc/AlohaConnectLogo(1).png" height="300" width="500">
 # View our website
 * [Ho'ohui](https://hoohui.meteorapp.com/)
 
