@@ -1,4 +1,5 @@
 <img src="doc/AlohaConnectLogo (1).png">
+
 # View our website
 
 * [Ho'ohui](https://hoohui.meteorapp.com/)
