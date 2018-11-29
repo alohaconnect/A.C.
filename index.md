@@ -1,3 +1,4 @@
+<img src="doc/alohaRegisterCompany.JPG" height="300" width="500">
 # View our website
 * [Ho'ohui](https://hoohui.meteorapp.com/)
 
@@ -11,10 +12,10 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 # Development History
 ## Progress
-* [Deployed Version](https://ho-ohui.meteorapp.com/)
+* [Deployed Version](https://hoohui.meteorapp.com/)
 * [Milestone 1](https://github.com/ho-ohui/hoohui/projects/1)
 * [Milestone 2](https://github.com/ho-ohui/hoohui/projects/2)
-* [Milestone 3](https://github.com/ho-ohui/hoohui/projects/3)
+
 ## Features of the system
 <ul>
   <li>Users can register or login as student or company.</li>
@@ -27,7 +28,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <dir>
   <h4>Landing</h4>
   <p>When you first enter the webpage you are greeted with this home page</p>
-  <img src="doc/landing.JPG" height="300" width="500">
+  <img src="doc/landing.PNG" height="300" width="500">
   </dir>
   <dir>
   <h4>Sign Up</h4>
@@ -41,24 +42,19 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   </dir>
   <dir>
   <h4>Company home page</h4>
-  <img src="doc/companyhome.JPG" height="300" width="500">
+  <img src="doc/alohaCompanyHome.JPG" height="300" width="500">
   </dir>
    <dir>
   <h4>Student home page</h4>
-  <img src="doc/studenthome.JPG" height="300" width="500">
+  <img src="doc/alohastudentHome.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Company add position</h4>
-  <img src="doc/addposition.JPG" height="300" width="500">
+  <img src="doc/addPosition.JPG" height="300" width="500">
   </dir>
   <dir>
   <h4>Edit Page</h4>
   <img src="doc/alohaEditPosition.PNG" height="300" width="500">
-  <p></p> 
-  </dir>
-   <dir>
-  <h4>Admin Page</h4>
-  <img src="doc/adminhome.PNG" height="300" width="500">
   <p></p> 
   </dir>
   
@@ -66,7 +62,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 
 Step 1: Install [Meteor](https://www.meteor.com/install).
 
-Step 2: [Download a copy of ho-ohui](https://github.com/ho-ohui/hoohui).
+Step 2: [Download a copy of Ho'ohui](https://github.com/ho-ohui/hoohui).
 
 Step 3: cd into the app directory install the required libraries with:
 
@@ -78,12 +74,11 @@ Once the libraries are installed, you can run the application by invoking:
 
 ## Application Design
 ### Data model
-The alohaconnect data mode is implemented by two javascript classes: StudentProfile and Position. Both of them encapsulate a MongoDB collection with the same name and export a single variable that provides access to that collection.
+The ho'ohui data mode is implemented by two javascript classes: StudentProfile and Position. Both of them encapsulate a MongoDB collection with the same name and export a single variable that provides access to that collection.
 
 ## About Us
 
 ### Dylan Ubongen
-
 I am currently a Junior at the University of Hawaii at Manoa. My major is Computer Science with a focus in the security track. Some of my previously aquired skills are the various programing laguages that I've learned, such as, C, C++, Java, Javascript, etc. However, one of my goals is to improve my web development skills.
 
 ### Trevin Tejero
