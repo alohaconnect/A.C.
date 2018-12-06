@@ -10,7 +10,7 @@
 * [Development History](#development-history)
 * [Features of the System](#features-of-the-system)
 * [Guide](#guide)
-* [UH Manoa Student Impressions](#UHM-Student's-First-Impressions)
+* [UHM Student's First Impressions](#uhm-student's-first-impressions)
 
 # About Ho'ohui
 Our goal is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their career after college. We also want to include the hiring companies to interact with the students by hvaing them make their own account and choose from the listed users.
