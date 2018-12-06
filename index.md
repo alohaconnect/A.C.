@@ -10,7 +10,7 @@
 * [Development History](#development-history)
 * [Features of the System](#features-of-the-system)
 * [Guide](#guide)
-* [UHM Student's First Impressions](#uhm-student's-first-impressions)
+* [Student First Impressions](#student-first-impressions)
 
 # About Ho'ohui
 Our goal is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their career after college. We also want to include the hiring companies to interact with the students by hvaing them make their own account and choose from the listed users.
@@ -104,7 +104,7 @@ Once the libraries are installed, you can run the application by invoking:
 ### Data model
 The ho'ohui data model is implemented by two javascript classes: StudentProfile and Position. Both of them encapsulate a MongoDB collection with the same name and export a single variable that provides access to that collection.
 
-## UHM Student's First Impressions
+## Student First Impressions
 ### Tyler Eguchi
 "I feel that this is a great way to connect employers to the local community."
 :star::star::star::star:
