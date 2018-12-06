@@ -107,23 +107,23 @@ The ho'ohui data model is implemented by two javascript classes: StudentProfile 
 ## Student First Impressions
 ### Tyler Eguchi
 "I feel that this is a great way to connect employers to the local community."
-:star::star::star::star:
+⭐️⭐️⭐️⭐️
 
 ### Kobe Dait
 "If this project was became an actual website for local people to use, I think this would be a potential competitor compared to other job finding websites."
-:star::star::star:
+⭐️⭐️⭐️
 
 ### Matthew Spencer
 "As a business major I'm always competing against other people, with this further developed it'll be easier for me to show my skills to various employers." 
-:star::star::star::star:
+⭐️⭐️⭐️⭐️
 
 ### Kyle Fujita
 "This is pretty good 10/10 I would use this again."
-:star::star::star::star::star:
+⭐️⭐️⭐️⭐️⭐️
 
 ### Kyle Nuesca
 "I see potential in this project, I believe that it would often be used in Hawaii, due to the constant search for jobs."
-:star::star::star::star:
+⭐️⭐️⭐️⭐️
 
 ## About Us
 
