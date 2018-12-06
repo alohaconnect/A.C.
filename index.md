@@ -40,9 +40,9 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <dir>
   <h4>Sign Up</h4>
   <p>Register as a Student</p>
-  <img src="doc/StudentRegister.png" height="300" width="500">
+  <img src="doc/studreg.png" height="300" width="500">
   <p>Register as a Company</p>
-  <img src="doc/CompanyRegister.png" height="300" width="500">
+  <img src="doc/compreg.png" height="300" width="500">
   </dir>
   
   <dir>
