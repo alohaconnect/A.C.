@@ -34,7 +34,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <dir>
   <h4>Landing</h4>
   <p>When you first enter the webpage you are greeted with this home page, from here you are able to login to your account(if you have one) or register for an account.</p>
-  <img src="doc/Login.png" height="300" width="500">
+  <img src="doc/landing.PNG" height="300" width="500">
   </dir>
   
   <dir>
@@ -47,28 +47,44 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   
   <dir>
   <h4>Company Home page</h4>
-  <img src="doc/CompanyHP.png" height="300" width="500">
+  <img src="doc/companyhome.PNG" height="300" width="500">
   </dir>
   
   <dir>
   <h4>Company Add Position</h4>
-  <img src="doc/AddPosition.png" height="300" width="500">
+  <img src="doc/companyadd.PNG" height="300" width="500">
   </dir>
   
-  <dir>
-  <h4>Applicants Page</h4>
-  <img src="doc/Applicants.png" height="300" width="500">
+   <dir>
+  <h4>Find Applicants</h4>
+  <img src="doc/findapps.PNG" height="300" width="500">
   </dir>
   
   <dir>
   <h4>Student Home page</h4>
-  <img src="doc/StudentHP.png" height="300" width="500">
+  <img src="doc/studenthome.PNG" height="300" width="500">
   </dir>
   
   <dir>
-  <h4>Student Profile Page</h4>
-  <img src="doc/StudentProfile.png" height="300" width="500">
+  <h4>Applicants Page</h4>
+  <img src="doc/studentadd.PNG" height="300" width="500">
   </dir>
+  
+  <dir>
+  <h4>Job Opportunities</h4>
+  <img src="doc/jobopp.PNG" height="300" width="500">
+  </dir>
+  
+  <dir>
+  <h4>Application Acceptance</h4>
+  <img src="doc/appacceptance.PNG" height="300" width="500">
+  </dir>
+  
+  <dir>
+  <h4>Admin Home Page</h4>
+  <img src="doc/adminhome.PNG" height="300" width="500">
+  </dir>
+  
   
 ## Installation
 
